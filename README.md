@@ -8,8 +8,8 @@ Instead of SQL, this system implements a serverless architecture leveraging the 
 
 ## 🚀 Live Applications
 
-* **📋 Public Inquiry Portal:** [shriswarup-dav.streamlit.app](https://shriswarup-dav.streamlit.app/)
-* **📊 Admin Management Panel:** [shri47panel.streamlit.app](https://shri47panel.streamlit.app/)
+* **📋 Public Inquiry Portal:** [dav-inquiry.streamlit.app](https://dav-inquiry.streamlit.app/)
+* **📊 Admin Management Panel:** [dav-analytics.streamlit.app](https://dav-analytics.streamlit.app/)
 
 ### 🔑 Portfolio Demo Access
 Recruiters and reviewers can access the live analytics administration deck using these credentials:
