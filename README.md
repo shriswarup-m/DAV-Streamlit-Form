@@ -71,4 +71,4 @@ streamlit run DAV_Reg.py
 ```
 
 ---
-
+Developed by [Shriswarup](https://github.com)
