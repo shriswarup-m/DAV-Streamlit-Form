@@ -143,7 +143,7 @@ if st.button("Submit Enquiry"):
         
         GITHUB_TOKEN = st.secrets["GITHUB_TOKEN"]
         
-        REPO_OWNER = "ImRustyyy750"
+        REPO_OWNER = "shriswarup-m"
         REPO_NAME = "DAV-Streamlit-Form"
         
         FILE_PATH = "student_enquiries.csv"
